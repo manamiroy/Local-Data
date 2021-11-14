@@ -1,4 +1,4 @@
-# Local-Data
+# Local Data Computations
 
 This repository contains the code that verifies results in Section 3 of the paper Local data of rational elliptic curves with non-trivial torsion by Alexander Barrios and Manami Roy. The code was written by the authors as well.
 
